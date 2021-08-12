@@ -36,8 +36,8 @@
 <l>gen_contour_polygon_xld(Contour, [ R[Index1-1], R[Index1]], [C[Index1-1],C[Index1]])</l>
 <l>     concat_obj(Contour,EmptyObject,EmptyObject)</l>
 <l>endfor</l>
-<l>write_tuple(C,'C:/Users/yangf/Desktop/博士课题相关/1日常写文章哦/花粉释放观察 Journal of Experimental Biology/C1.tup')</l>
-<l>write_tuple(R,'C:/Users/yangf/Desktop/博士课题相关/1日常写文章哦/花粉释放观察 Journal of Experimental Biology/R1.tup')</l>
+<l>write_tuple(C,'C1.tup')</l>
+<l>write_tuple(R,'R1.tup')</l>
 <c></c>
 </body>
 <docu id="main">
